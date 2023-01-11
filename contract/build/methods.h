@@ -1,0 +1,5 @@
+DEFINE_NEAR_METHOD(countTest)
+DEFINE_NEAR_METHOD(get_greeting)
+DEFINE_NEAR_METHOD(printHi)
+DEFINE_NEAR_METHOD(set_greeting)
+DEFINE_NEAR_METHOD(tangGiaTri)
